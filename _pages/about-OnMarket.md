@@ -10,9 +10,16 @@ redirect_from:
 
 ### About Me 
 ___
-I am currently a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). Prior to joining Harvard, I obtained my Ph.D. in Operations Research from the University of Michigan, where I had the pleasure of being advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. 
+I recently completed my Ph.D. in **Operations Research** at the Department of [Industrial and Operations Engineering](https://ioe.engin.umich.edu) of the University of Michigan (August 2022). I had the pleasure to be advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in **Statistics** at the [Department of Statistics](https://lsa.umich.edu/stats) of the University of Michigan. I have started a postdoctoral fellow position at the [Harvard Kennedy School](https://www.hks.harvard.edu). 
 
-In the summer of 2023, I will join [Kelley School of Business](https://kelley.iu.edu) as an assistant professor of Operations and Decision Technologies.
+[comment]: <> (Prior to joining the University of Michigan, I earned an MSc in Industrial Engineering and Operations Research from the University of Tehran.)
+<!---***Update:** <span style="color:#2874A6">I am on the academic job market. </span> I will be available for interviews at INFORMS Annual Meeting 2022, where I will also be presenting my work in the following session:
+  * Data-driven Hospital Admission Control: A Contextual Learning Approach. Session: TBD  
+-->
+
+* <span style="color:#1065c0"> I am on the 2022-2023 academic job market </span>   
+* I will be available for interviews at INFORMS Annual Meeting 2022, where I will also be presenting the following work:
+  * Data-driven Hospital Admission Control: A Contextual Learning Approach. Session: ME15, Oct 17, 5:00 PM - 6:15 PM
 
 ### Research Interests
 ___
