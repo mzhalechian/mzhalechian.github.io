@@ -311,4 +311,8 @@ compress_html:
     envs: development
 
 # Google Analytics
-google_analytics: UA-142074100-1
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-SEVF5LG0RF"
+    anonymize_ip         : # true, false (default)
