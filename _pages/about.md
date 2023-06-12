@@ -10,9 +10,9 @@ redirect_from:
 
 ### About Me 
 ___
-I am currently a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). Prior to joining Harvard, I obtained my Ph.D. in Operations Research from the University of Michigan, where I had the pleasure of being advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. 
+I am currently a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). Prior to joining Harvard, I obtained my Ph.D. in Industrial and Operations Engineering from the University of Michigan, where I had the pleasure of being advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. 
 
-In the summer of 2023, I will join [Kelley School of Business](https://kelley.iu.edu) as an assistant professor of Operations and Decision Technologies.
+In the summer of 2023, I will join [Kelley School of Business](https://kelley.iu.edu) as an Assistant Professor of Operations and Decision Technologies.
 
 ### Research Interests
 ___
