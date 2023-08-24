@@ -53,7 +53,7 @@ My work has received several recognitions, including:
 * Rackham Graduate Student Research Grant, 2021
 * Finalist, Seth Bonder Scholarship, INFORMS Health Applications Society, 2020
 * Second Place, INFORMS Decision Analysis Society Best Student Paper Competition, 2020
-* Winner, Joel and Lorraine Brown Graduate Student Instructor of the Semester Award, 2020
+<!---* Winner, Joel and Lorraine Brown Graduate Student Instructor of the Semester Award, 2020-->
 <!---* Rackham Travel Grant, University of Michigan, 2018, 2020, 2021-->
 <!---* Rackham Graduate Fellowship, University of Michigan, 2018-->
 <!---* Graduate Student of the Year, College of Engineering, University of Tehran, 2017-->

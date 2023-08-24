@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /teaching-service/
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -10,6 +10,7 @@ ___
 * **Economic Decision Making (IOE 201)** - Fall 2020
   * A core undergraduate class in both in-person and online sections.
   * Teaching evaluation: **4.9 out of 5**
+  * Winner of the Rackham Outstanding Graduate Student Instructor Award, 2022
 
 ### **Recitation Instructor, University of Michigan**
 ___
@@ -43,6 +44,7 @@ ___
     * The course covered topics on fundamentals in developing layouts for production and service facilities.  
     * Responsibilities: held office hours and graded homework assignments   
 
+<!---
 ### **Service and Mentoring**
 ___
 * **INFORMS at the University of Michigan**
@@ -63,3 +65,4 @@ ___
 
 * **Journal Referee**
   * Management Science, Operations Research, European Journal of Operational Research, Omega, Transportation Research Part E, Transportation Research Part D, Computer and Operations Research, Computer and Industrial Engineering, Applied Mathematical Modelling, International Journal of Production Research   
+  -->
