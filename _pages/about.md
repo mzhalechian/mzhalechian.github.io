@@ -15,7 +15,7 @@ I am an Assistant Professor of [Operations and Decision Technologies](https://ke
 I am interested in data-driven analytics to solve a wide range of problems in healthcare and service operations. 
 <!---under the supervision of [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. -->
 
-### Research and Collaborations
+### Research & Collaborations
 ___
 My current research focuses on developing machine learning, optimization, and sequential decision-making methods to make data-driven and informed decisions for high-impact problems.
 
