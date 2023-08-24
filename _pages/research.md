@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Recent Accepted/Submitted Papers
+### Published & Accepted Papers
 ___
 * [Data-driven Hospital Admission Control: A Contextual Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433)  
 Accepted at **Operations Research**  
@@ -17,8 +17,15 @@ M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen
 * [Online Resource Allocation with Personalized Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3538509)  
 Accepted at **Operations Research**  
 Collaboration with Michigan Medicine  
-M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen  
+M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen     
 
+* [Augmenting Kalman Filter Machine Learning Models with Data from Optical Coherence Tomography to Predict Future Visual Field Loss: The African Descent and Glaucoma Evaluation Study](https://www.sciencedirect.com/science/article/pii/S2666914521000890)  
+Accepted at **Ophthalmology Science**  
+Collaboration with Kellogg Eye Center and and Shiley Eye Institution  
+M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein, et. al    
+
+### Under-Revision Papers
+___
 * [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316)  
 Minor Revision at **Management Science**  
 Collaboration with Massachusetts Hospital  
@@ -31,15 +38,9 @@ E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
 Major Revision at **Manufacturing & Service Operations Management**  
 Collaboration with St. Joseph Hospital    
-A. Dean, M. Zhalechian, MP. Van Oyen      
+A. Dean, M. Zhalechian, MP. Van Oyen   
 
-* [Augmenting Kalman Filter Machine Learning Models with Data from Optical Coherence Tomography to Predict Future Visual Field Loss: The African Descent and Glaucoma Evaluation Study](https://www.sciencedirect.com/science/article/pii/S2666914521000890)  
-Accepted at **Ophthalmology Science**  
-Collaboration with Kellogg Eye Center and and Shiley Eye Institution  
-M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein, et. al    
-
-
-### Working Papers
+<!--- ### Working Papers
 ___
 
 * A Reinforcement Learning Approach to Control Chronic Diseases with Application to Macular Degeneration  
@@ -49,10 +50,13 @@ M. Zhalechian, MP. Van Oyen
 
 * Optimizing Time to Next Visit: A Reinforcement Learning Approach  
 Collaboration with Kellogg Eye Center  
-I. Jones, M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein    
+I. Jones, M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein 
+-->   
 
-### Selected Published Papers (Prior my Ph.D.)
+### Selected Papers Published Prior my Ph.D.
 ___
+In my past life, I used to work on supply chain network design. 
+
 * [Sustainable Design of a Closed-loop Location-routing-inventory Supply Chain Network Under Mixed Uncertainty](https://doi.org/10.1016/j.tre.2016.02.011)  
 Transportation Research Part E, 2016   
 M. Zhalechian, R. Tavakkoli-Moghaddam, B. Zahiri, M. Mohammadi 
