@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-### About Me
+### Mohammad Zhalechian
 ___
-I am an Assistant Professor of [Operations and Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.html) at the [Kelley School of Business](https://kelley.iu.edu). Prior to joining Kelley, I spend a year as a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). I received my Ph.D. in Industrial and Operations Engineering from the [University of Michigan](https://ioe.engin.umich.edu). Previously, I obtained an M.A. in Statistics from the University of Michigan. 
-
-I am interested in data-driven analytics to solve a wide range of problems in healthcare and service operations. My current research focuses on developing machine learning, optimization, and sequential decision-making methods to make data-driven and informed decisions for high-impact problems.
+I am an Assistant Professor of [Operations and Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.html) at the [Kelley School of Business](https://kelley.iu.edu). Prior to joining Kelley, I spend a year as a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). I received my Ph.D. in Industrial and Operations Engineering from the University of Michigan. Previously, I obtained an M.A. in Statistics from the University of Michigan. 
 
 <!---under the supervision of [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. -->
 
-### Collaborations
+<!--- ### Research Interests
 ___
+-->
+I am interested in data-driven analytics to solve a wide range of problems in healthcare and service operations. My current research focuses on developing machine learning and optimization methods to make data-driven and informed decisions for a wide range of healthcare and service operations applications. 
 
-My research is motivated by real-world needs and driven by many problems with both practical impact and interesting theoretical challenges. Over the years, I have collaborated closely with healthcare practitioners on several projects, spanning from deploying an online Bed Assignment Tool at Michigan Medicine, designing a Prediction Tool for Tracking Glaucoma Progression at Medisoft in the UK, to proposing a new Regulatory Guideline for the FDA's Premarket Approval Pathway.
+My research is motivated by real-world needs and driven by many problems with both practical impact and interesting theoretical challenges. Over the years, I have collaborated closely with healthcare practitioners on several projects, spanning from deploying an online Bed Assignment Tool at the Michigan Medicine, designing a prediction tool Kellogg center and Medisoft at UK, to proposing a new regulatory guideline for the FDA's Premarket Approval Pathway.
 
 <!---My research interests lie at the interface of statistical machine learning theory and data-driven optimization.
 My current research aims to develop personalized decision-making methods through design
@@ -47,13 +47,14 @@ ___
 My work has received several recognitions, including:
 
 * Winner, Richard and Eleanor Towner Prize for Distinguished Academic Achievement, 2022
-<!---* Winner, Rackham Outstanding Graduate Student Instructor Award, 2022-->
+* Winner, Rackham Outstanding Graduate Student Instructor Award, 2022
 * Finalist, CHOM Best Paper Competition (POMS), 2022
 * Winner, IOE Richard C. Wilson Prize for Best Student Paper on Service Systems, 2021
 * Rackham Graduate Student Research Grant, 2021
 * Finalist, Seth Bonder Scholarship, INFORMS Health Applications Society, 2020
 * Second Place, INFORMS Decision Analysis Society Best Student Paper Competition, 2020
 * Winner, Joel and Lorraine Brown Graduate Student Instructor of the Semester Award, 2020
-<!---* Rackham Travel Grant, University of Michigan, 2018, 2020, 2021-->
-<!---* Rackham Graduate Fellowship, University of Michigan, 2018-->
-<!---* Graduate Student of the Year, College of Engineering, University of Tehran, 2017-->
+* Rackham Travel Grant, University of Michigan, 2018, 2020, 2021
+* Rackham Graduate Fellowship, University of Michigan, 2018
+* Graduate Student of the Year, College of Engineering, University of Tehran, 2017
+
