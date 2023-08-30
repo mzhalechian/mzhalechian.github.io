@@ -7,7 +7,7 @@ author_profile: true
 
 ### Published & Accepted Papers
 ___
-* [Data-driven Hospital Admission Control: A Contextual Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433)  
+* [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433)  
 Accepted at **Operations Research**  
 Collaboration with St. Joseph Hospital  
 M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen  

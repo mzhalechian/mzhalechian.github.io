@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### **Sole Instructor, University of Michigan**
+### **Instructor, University of Michigan**
 ___
 * **Economic Decision Making (IOE 201)** - Fall 2020
   * A core undergraduate class in both in-person and online sections.
