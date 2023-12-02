@@ -7,6 +7,15 @@ author_profile: true
 
 ### Published & Accepted Papers
 ___
+* [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316)  
+Accepted at **Management Science**  
+Collaboration with Massachusetts Hospital  
+E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian  
+  * <span style="color:#black">Finalist, CHOM Best Paper Competition (POMS), 2022 </span>
+  * <span style="color:#black">Finalist, INFORMS MSOM Best Student Paper Competition, 2021 </span>
+  * <span style="color:#black">Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021 </span>
+  * <span style="color:#black">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020 </span>  
+  
 * [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433)  
 Accepted at **Operations Research**  
 Collaboration with St. Joseph Hospital  
@@ -25,16 +34,7 @@ Collaboration with Kellogg Eye Center and and Shiley Eye Institution
 M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein, et. al    
 
 ### Under-Revision Papers
-___
-* [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316)  
-Minor Revision at **Management Science**  
-Collaboration with Massachusetts Hospital  
-E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian  
-  * <span style="color:#black">Finalist, CHOM Best Paper Competition (POMS), 2022 </span>
-  * <span style="color:#black">Finalist, INFORMS MSOM Best Student Paper Competition, 2021 </span>
-  * <span style="color:#black">Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021 </span>
-  * <span style="color:#black">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020 </span>  
-  
+___  
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
 Major Revision at **Manufacturing & Service Operations Management**  
 Collaboration with St. Joseph Hospital    
