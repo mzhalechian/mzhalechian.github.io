@@ -42,16 +42,16 @@ A. Dean, M. Zhalechian, MP. Van Oyen
 
 ### Working Papers
 ___  
-*[Harmonizing Safety and Speed: An Analytical Paradigm to Enhance FDA?s Medical Device Clearance Policy]
+* Harmonizing Safety and Speed: An Analytical Paradigm to Enhance FDA?s Medical Device Clearance Policy
 with Soroush Saghafian and Omar Robles 
 
-*[Interpretable Design of Multi-Agent Reinforcement Learning]
+* Interpretable Design of Multi-Agent Reinforcement Learning
 with Soroush Saghafian and Yoshimi Fukuoka
 
-* [Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom]
+* Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom
 with Arlen Dean, Dun Fu, Mark Van Oyen, Mariel Lavieri, Anthony Khawaja, and Joshua Stein
 ___
-
+<--
 * A Reinforcement Learning Approach to Control Chronic Diseases with Application to Macular Degeneration  
 Collaboration with Kellogg Eye Center    
 M. Zhalechian, MP. Van Oyen  
