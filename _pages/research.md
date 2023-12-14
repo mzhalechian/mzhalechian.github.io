@@ -33,14 +33,23 @@ Accepted at **Ophthalmology Science**
 Collaboration with Kellogg Eye Center and and Shiley Eye Institution  
 M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein, et. al    
 
-### Under-Revision Papers
+### Under-Revision/Working Papers
 ___  
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
 Major Revision at **Manufacturing & Service Operations Management**  
 Collaboration with St. Joseph Hospital    
 A. Dean, M. Zhalechian, MP. Van Oyen   
 
-<!--- ### Working Papers
+### Working Papers
+___  
+*[Harmonizing Safety and Speed: An Analytical Paradigm to Enhance FDA?s Medical Device Clearance Policy]
+with Soroush Saghafian and Omar Robles 
+
+*[Interpretable Design of Multi-Agent Reinforcement Learning]
+with Soroush Saghafian and Yoshimi Fukuoka
+
+* [Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom]
+with Arlen Dean, Dun Fu, Mark Van Oyen, Mariel Lavieri, Anthony Khawaja, and Joshua Stein
 ___
 
 * A Reinforcement Learning Approach to Control Chronic Diseases with Application to Macular Degeneration  
