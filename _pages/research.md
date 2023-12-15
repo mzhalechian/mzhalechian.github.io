@@ -50,17 +50,6 @@ with Soroush Saghafian and Yoshimi Fukuoka
 
 * Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom
 with Arlen Dean, Dun Fu, Mark Van Oyen, Mariel Lavieri, Anthony Khawaja, and Joshua Stein
-___
-<--
-* A Reinforcement Learning Approach to Control Chronic Diseases with Application to Macular Degeneration  
-Collaboration with Kellogg Eye Center    
-M. Zhalechian, MP. Van Oyen  
-
-
-* Optimizing Time to Next Visit: A Reinforcement Learning Approach  
-Collaboration with Kellogg Eye Center  
-I. Jones, M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein 
--->   
 
 ### Selected Papers Published Prior my Ph.D.
 ___
