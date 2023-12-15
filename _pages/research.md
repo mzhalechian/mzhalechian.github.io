@@ -42,7 +42,7 @@ A. Dean, M. Zhalechian, MP. Van Oyen
 
 ### Working Papers
 ___  
-* Harmonizing Safety and Speed: An Analytical Paradigm to Enhance FDA?s Medical Device Clearance Policy
+* Harmonizing Safety and Speed: An Analytical Paradigm to Enhance FDA's Medical Device Clearance Policy 
 with Soroush Saghafian and Omar Robles 
 
 * Interpretable Design of Multi-Agent Reinforcement Learning
