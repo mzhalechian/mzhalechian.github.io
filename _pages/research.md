@@ -30,19 +30,23 @@ M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen
 
 * [Augmenting Kalman Filter Machine Learning Models with Data from Optical Coherence Tomography to Predict Future Visual Field Loss: The African Descent and Glaucoma Evaluation Study](https://www.sciencedirect.com/science/article/pii/S2666914521000890)  
 Accepted at **Ophthalmology Science**  
-Collaboration with Kellogg Eye Center and and Shiley Eye Institution  
+Collaboration with Kellogg Eye Center and and Shiley Eye Institution    
 M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein, et. al    
 
-### Under-Revision
+### Under Revision/Review
 ___  
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
-Major Revision at **Manufacturing & Service Operations Management**  
+Minor Revision at **Manufacturing & Service Operations Management**  
 Collaboration with St. Joseph Hospital    
 A. Dean, M. Zhalechian, MP. Van Oyen   
 
+* Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom         
+Collaboration with Medisoft UK    
+A. Dean, DJ. Fu, M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja, J. Stein   
+
 ### Working Papers
 ___  
-* Harmonizing Safety and Speed: An Analytical Paradigm to Enhance FDA's Medical Device Clearance Policy   
+* Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA?s Medical Device Clearance Policy    
   with Soroush Saghafian and Omar Robles 
   
 * Interpretable Design of Multi-Agent Reinforcement Learning      
@@ -51,6 +55,11 @@ ___
 * Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom    
   with Arlen Dean, Dun Fu, Mark Van Oyen, Mariel Lavieri, Anthony Khawaja, and Joshua Stein
 
+* Learning Bundle Pricing of Reusable Resources   
+  with Arlen Dean and Cong Shi  
+
+* Batching and Optimal Personalized Resource Allocation  
+  with Yiding Feng and Arlen Dean   
 
 ### Selected Papers Published Prior my Ph.D.
 ___

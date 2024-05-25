@@ -14,8 +14,7 @@ ___
   
 * **Economic Decision Making (IOE 201)** - Fall 2020
   * Industrial and Operations Engineering, University of Michigan
-  * A core undergraduate class in both in-person and online sections.
-  * Teaching evaluation: **4.9 out of 5**
+  * A core undergraduate class in both in-person and online sections
   * Winner of the Rackham Outstanding Graduate Student Instructor Award
 
 ### **Teaching Assistant**
