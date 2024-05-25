@@ -46,14 +46,11 @@ A. Dean, DJ. Fu, M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja, J. Stein
 
 ### Working Papers
 ___  
-* Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA?s Medical Device Clearance Policy    
+* Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy    
   with Soroush Saghafian and Omar Robles 
   
 * Interpretable Design of Multi-Agent Reinforcement Learning      
   with Soroush Saghafian and Yoshimi Fukuoka
-
-* Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom    
-  with Arlen Dean, Dun Fu, Mark Van Oyen, Mariel Lavieri, Anthony Khawaja, and Joshua Stein
 
 * Learning Bundle Pricing of Reusable Resources   
   with Arlen Dean and Cong Shi  
