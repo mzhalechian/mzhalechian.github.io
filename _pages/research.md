@@ -63,7 +63,6 @@ ___
   
 * Patient-to-Bed Placement Optimization: Improving Coordination for a Hospital Command Center  
   with Arlen Dean, Iman Attari, Max Garifullin (Industry collaborator), Jennifer Pardo (Industry collaborator), Mark Van Oyen   
-\begin{itemize}
   * <span style="color:#black">Implemented at Michigan Medicine </span>  
   * <span style="color:#black">Accepted at Michigan Medicine Quality Month Symposium </span> 
 
