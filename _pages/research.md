@@ -33,7 +33,7 @@ Accepted at **Ophthalmology Science**
 Collaboration with Kellogg Eye Center and and Shiley Eye Institution    
 M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew, J. Stein (M.D), et. al    
 
-### Under Revision/Review
+### Working Papers
 ___  
 * [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
 Major Revision at **Management Science**    
@@ -55,9 +55,10 @@ Under Review
 A. Dean, M. Zhalechian, C. Shi    
     * <span style="color:#black">Finalist, Service Science Best Student Paper Competition, 2024 (Awarded to Arlen Dean) </span>  
 
-### Working Papers
+<!--
+### In Progress
 ___  
- 
+
 * Interpretable Design of Multi-Agent Reinforcement Learning      
   with Soroush Saghafian and Yoshimi Fukuoka
   
@@ -71,6 +72,7 @@ ___
   
 * The Impact of Early Referral on Overtreatment and Healthcare Waste: Evidence from Pain Management Practices  
   with Buyun Li, Jonathan Helm, and Nick Vaughn (M.D)   
+-->
 
 ### Selected Papers Published Prior my Ph.D.
 ___

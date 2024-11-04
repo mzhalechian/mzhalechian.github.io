@@ -5,5 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can find my CV [here](https://drive.google.com/file/d/13G96_EZKXGiB2MFArRpkUj5_EjyWogT5/view?usp=sharing)
+You can find my CV [here](https://drive.google.com/file/d/1R5J1BOPXpzUJVL_BYVfsnCTalwxZUgzl/view?usp=share_link)
 
