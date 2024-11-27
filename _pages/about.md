@@ -21,26 +21,6 @@ My current research focuses on developing machine learning, human-AI interfaces,
 
 My research is motivated by real-world needs and driven by many problems with both practical impact and interesting theoretical challenges. Over the years, I have collaborated closely with healthcare practitioners and hospitals on several projects, spanning from deploying an online Bed Assignment Tool at Michigan Medicine, designing a Prediction Tool for Tracking Glaucoma Progression at Medisoft in the UK, to proposing a new Regulatory Guideline for the FDA's Premarket Approval Pathway.
 
-<!---My research interests lie at the interface of statistical machine learning theory and data-driven optimization.
-My current research aims to develop personalized decision-making methods through design
-and analysis of online statistical machine learning and online optimization algorithms with theoretical performance guarantees. My research problems are motivated by real-world problems in
-healthcare operations, service operations management, medical decision-making, and supply chain.
-<!---My research interests lie at the interface of statistical machine learning and optimization. I am interested in designing data-driven analytical methods and sequential decision-making frameworks for a wide range of healthcare and business analytics applications.-->
-
-<!---
-* **Methodology**: Sequential Decision-Making under Uncertainty, Data-driven Optimization, Statistical Machine Learning, Reinforcement Learning, Fairness & Interpretability in Artificial Intelligence
-* **Applications**: Healthcare Analytics and Operations, Service Operations Management, Medical Decision-Making, Big Data and Business Analytics, Supply Chain Management-->
-
-
-<!---
-Recent and Upcoming Talks
-------
-* [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/), October 2022
-* [POMS Annual Conference](https://pomsmeetings.org/conf-2022/), April 2022
-* [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/anaheim2021/), October 2021
--->
-
-
 <!---### Honors and Awards
 ___
 -->
