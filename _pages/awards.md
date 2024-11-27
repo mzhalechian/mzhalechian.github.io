@@ -14,7 +14,7 @@ My work has received several recognitions, including:
 
 - 2024\* Finalist, Service Science Best Student Paper Competition
 
-- 2022 Winner, Towner Prize for Distinguished Academic Achievement 
+- 2022 Winner, Towner Prize for Distinguished Academic Achievement   
   *Rackham Graduate School, University of Michigan*
 
 - 2022 Winner, Rackham Outstanding Graduate Student Instructor Award   
