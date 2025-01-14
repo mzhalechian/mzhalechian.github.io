@@ -32,5 +32,5 @@ My work has received several recognitions, including:
 
 - 2020 Finalist, INFORMS Seth Bonder Scholarship for Applied OR in Health Services 
 
-- 2020 Winner, Joel and L. Brown Graduate Student Instructor of the Semester 
+- 2020 Winner, Joel and L. Brown Graduate Student Instructor of the Semester      
   *IOE Department, University of Michigan*

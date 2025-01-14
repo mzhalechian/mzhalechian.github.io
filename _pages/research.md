@@ -26,7 +26,12 @@ M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen
 * [Online Resource Allocation with Personalized Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3538509)  
 Accepted at **Operations Research**  
 Collaboration with Michigan Medicine  
-M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen     
+M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen  
+
+* Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom         
+Accepted at **American Journal of Ophthalmology**   
+Collaboration with Medisoft UK    
+A. Dean, DJ. Fu, M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja (M.D), J. Stein (M.D)
 
 * [Augmenting Kalman Filter Machine Learning Models with Data from Optical Coherence Tomography to Predict Future Visual Field Loss: The African Descent and Glaucoma Evaluation Study](https://www.sciencedirect.com/science/article/pii/S2666914521000890)  
 Accepted at **Ophthalmology Science**  
@@ -44,11 +49,6 @@ M. Zhalechian, S. Saghafian, O. Robles
 Minor Revision at **Manufacturing & Service Operations Management**  
 Collaboration with St. Joseph Hospital    
 A. Dean, M. Zhalechian, MP. Van Oyen   
-
-* Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom         
-Major Revision at **American Journal of Ophthalmology**   
-Collaboration with Medisoft UK    
-A. Dean, DJ. Fu, M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja (M.D), J. Stein (M.D)
 
 * [Learning Bundle Pricing of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952453)      
 Under Review     

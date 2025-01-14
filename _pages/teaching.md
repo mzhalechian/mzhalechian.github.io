@@ -7,7 +7,7 @@ author_profile: true
 
 ### **Instructor**
 ___
-* **Business Analytics and Modeling (BUS K353)** - Spring 2024
+* **Business Analytics and Modeling (BUS K353)** - Spring 2024, Spring 2025
   * Kelley School of Business, Indiana University
   * An undergraduate machine learning class, including hands-on cases on real-world business problems and R programming
   * The topics include data analysis, parametric and non-parametric supervised machine learning techniques, unsupervised machine learning techniques, Monte Carlo simulation, and optimization.
