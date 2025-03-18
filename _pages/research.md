@@ -7,6 +7,11 @@ author_profile: true
 
 ### Published & Accepted Papers
 ___
+* [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
+Accepted at **Manufacturing & Service Operations Management**  
+Collaboration with St. Joseph Hospital    
+A. Dean, M. Zhalechian, MP. Van Oyen  
+
 * [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316)  
 Accepted at **Management Science**  
 Collaboration with Massachusetts Hospital  
@@ -44,11 +49,6 @@ ___
 Major Revision at **Management Science**    
 M. Zhalechian, S. Saghafian, O. Robles
   * <span style="color:#black">[Media Coverage: Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) </span>  
-  
-* [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
-Minor Revision at **Manufacturing & Service Operations Management**  
-Collaboration with St. Joseph Hospital    
-A. Dean, M. Zhalechian, MP. Van Oyen   
 
 * [Learning Bundle Pricing of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952453)      
 Under Review     
