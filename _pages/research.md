@@ -33,7 +33,7 @@ Accepted at **Operations Research**
 Collaboration with Michigan Medicine  
 M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen  
 
-* Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom         
+* [Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom](https://www.sciencedirect.com/science/article/abs/pii/S0002939425000212)         
 Accepted at **American Journal of Ophthalmology**   
 Collaboration with Medisoft UK    
 A. Dean, DJ. Fu, M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja (M.D), J. Stein (M.D)
