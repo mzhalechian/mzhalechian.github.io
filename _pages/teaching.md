@@ -19,8 +19,7 @@ ___
 
 ### **Teaching Assistant**
 ___
-  * **Introduction to Markov Processes (IOE 316)** - Winter 2020  
-    * <span style="color:#black"> Winner of the Joel and Lorraine Brown Graduate Student Instructor of the Semester Award </span>
   * **Practicum in Hospital Systems (IOE 481)** - Fall 2021, Winter 2022  
   * **Introduction to Markov Processes (IOE 316)** - Winter 2020  
+    * <span style="color:#black"> Winner of the Joel and Lorraine Brown Graduate Student Instructor of the Semester Award </span>
   * **Probability and Statistics for Eng. (IOE 265)** - Fall 2018, Winter 2019, Fall 2020  
