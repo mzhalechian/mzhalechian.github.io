@@ -55,8 +55,10 @@ Under Review
 A. Dean, M. Zhalechian, C. Shi    
     * <span style="color:#black">Finalist, Service Science Best Student Paper Competition, 2024 (Awarded to Arlen Dean) </span>  
     
-* Does Early Pain Management Pay Off? Evidence on Utilization, Costs, and Surgeries     
-B. Li, M. Zhalechian, C. Chen, N. Vaughn    
+* Does Early Pain Management Pay Off? Evidence on Utilization, Costs, and Surgeries 
+Under Review  
+B. Li, M. Zhalechian, C. Chen, N. Vaughn, H. Lee 
+
 
 <!--
 ### In Progress
