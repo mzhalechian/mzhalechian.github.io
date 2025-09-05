@@ -7,6 +7,7 @@ author_profile: true
 
 ### Published & Accepted Papers
 [“{\dagger}” denotes industry collaborators] [“(M.D)” denotes M.D. collaborators]
+
 ___
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
 Accepted at **Manufacturing & Service Operations Management**  
@@ -37,12 +38,13 @@ M. Zhalechian, E. Keyvanshokooh, C. Shi, MP. Van Oyen
 * [Validation of a Visual Field Prediction Tool for Glaucoma: A Multicenter Study Involving Patients with Glaucoma from Throughout the United Kingdom](https://www.sciencedirect.com/science/article/abs/pii/S0002939425000212)         
 Accepted at **American Journal of Ophthalmology**   
 Collaboration with Medisoft UK    
-A. Dean, DJ. Fu (M.D), M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja (M.D), J. Stein (M.D)
+A. Dean, DJ. Fu (M.D), M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja (M.D), J. Stein (M.D) 
 
 * [Augmenting Kalman Filter Machine Learning Models with Data from Optical Coherence Tomography to Predict Future Visual Field Loss: The African Descent and Glaucoma Evaluation Study](https://www.sciencedirect.com/science/article/pii/S2666914521000890)  
 Accepted at **Ophthalmology Science**  
 Collaboration with Kellogg Eye Center and and Shiley Eye Institution    
 M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew^{\dagger}, J. Stein (M.D), et. al    
+
 
 ### Working Papers
 ___  
