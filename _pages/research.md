@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Published & Accepted Papers
-[“{\dagger}” denotes industry collaborators] [“(M.D)” denotes M.D. collaborators]
+[“&dagger” denotes industry collaborators] [“(M.D)” denotes M.D. collaborators]
 
 ___
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
@@ -43,14 +43,14 @@ A. Dean, DJ. Fu (M.D), M. Zhalechian, MP. Van Oyen, M. Lavieri, AP. Khawaja (M.D
 * [Augmenting Kalman Filter Machine Learning Models with Data from Optical Coherence Tomography to Predict Future Visual Field Loss: The African Descent and Glaucoma Evaluation Study](https://www.sciencedirect.com/science/article/pii/S2666914521000890)  
 Accepted at **Ophthalmology Science**  
 Collaboration with Kellogg Eye Center and and Shiley Eye Institution    
-M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew^{\dagger}, J. Stein (M.D), et. al    
+M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew&dagger;, J. Stein (M.D), et. al    
 
 
 ### Working Papers
 ___  
 * [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
 Major Revision at **Management Science**    
-M. Zhalechian, S. Saghafian, O. Robles^{\dagger}
+M. Zhalechian, S. Saghafian, O. Robles&dagger;
   * <span style="color:#black">[Media Coverage: Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) </span>  
 
 * [Learning Bundle Pricing of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952453)      
@@ -63,7 +63,7 @@ Under Review
 B. Li, M. Zhalechian, C. Chen, N. Vaughn (M.D), H. Lee (M.D) 
 
 * From Implementation to Impact: Human-Algorithm Collaboration in Hospital Bed Placement    
-A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin^{\dagger}, J. Pardo^{\dagger} 
+A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
 
 
 <!--
