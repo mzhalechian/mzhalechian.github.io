@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Published & Accepted Papers
-[“&dagger” denotes industry collaborators] [“(M.D)” denotes M.D. collaborators]
+[&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators]
 
 ___
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
