@@ -47,9 +47,10 @@ M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew&dagger;, J. Stein (M.D), et. 
 
 
 ### Working Papers
+[&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators]
 ___  
 * [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
-Major Revision at **Management Science**    
+Minor Revision at **Management Science**    
 M. Zhalechian, S. Saghafian, O. Robles&dagger;
   * <span style="color:#black">[Media Coverage: Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) </span>  
   * <span style="color:#black">[Media Coverage: A Human-Algorithm Approach to Approving Medical Devices Could Slash the Recall Rate and Save Billions](https://www.hks.harvard.edu/faculty-research/policy-topics/health/human-algorithm-approach-approving-medical-devices-could) </span>  

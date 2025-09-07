@@ -27,7 +27,6 @@ I am a research fellow at the [Center for the Business of Life Sciences](https:/
 ___
 * [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance.  Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134), Under Revision at Management Science.       
 
-* [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433), Operations Research (2023).     
+* [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316), Management Science (2025).  
 
-* [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316), Forthcoming at Management Science.  
-
+* [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433), Operations Research (2023).    
