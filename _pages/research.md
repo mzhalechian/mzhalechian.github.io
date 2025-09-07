@@ -47,7 +47,8 @@ M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew&dagger;, J. Stein (M.D), et. 
 
 
 ### Working Papers
-[&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators]
+[&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators] 
+
 ___  
 * [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
 Minor Revision at **Management Science**    
