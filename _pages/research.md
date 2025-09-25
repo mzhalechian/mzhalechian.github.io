@@ -84,17 +84,10 @@ ___
 
 * Interpretable Design of Multi-Agent Reinforcement Learning      
   with Soroush Saghafian and Yoshimi Fukuoka
-  
-* Patient-to-Bed Placement Optimization: Improving Coordination for a Hospital Command Center  
-  with Arlen Dean, Iman Attari, Max Garifullin (Industry collaborator), Jennifer Pardo (Industry collaborator), Mark Van Oyen   
-  * <span style="color:#black">Implemented at Michigan Medicine </span>  
-  * <span style="color:#black">Accepted at Michigan Medicine Quality Month Symposium </span> 
 
 * Batching and Optimal Personalized Resource Allocation  
   with Yiding Feng and Arlen Dean  
-  
-* The Impact of Early Referral on Overtreatment and Healthcare Waste: Evidence from Pain Management Practices  
-  with Buyun Li, Jonathan Helm, and Nick Vaughn (M.D)   
+
 -->
 
 ### Selected Papers Published Prior my Ph.D.
