@@ -24,11 +24,6 @@ M. Zhalechian, S. Saghafian, O. Robles&dagger;
   * <span style="color:#black"> [Media Coverage:](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety </span>  
   * <span style="color:#black">[Media Coverage:](https://www.hks.harvard.edu/faculty-research/policy-topics/health/human-algorithm-approach-approving-medical-devices-could) A Human-Algorithm Approach to Approving Medical Devices Could Slash the Recall Rate and Save Billions </span>  
 
-* [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
-Accepted at **Manufacturing & Service Operations Management**  
-Collaboration with St. Joseph Hospital    
-A. Dean, M. Zhalechian, MP. Van Oyen  
-
 * [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316)  
 Accepted at **Management Science**  
 Collaboration with Massachusetts Hospital  
@@ -37,7 +32,12 @@ E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian
   * <span style="color:#black">Finalist, INFORMS MSOM Best Student Paper Competition, 2021 </span>
   * <span style="color:#black">Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021 </span>
   * <span style="color:#black">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020 </span>  
-  
+
+* [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
+Accepted at **Manufacturing & Service Operations Management**  
+Collaboration with St. Joseph Hospital    
+A. Dean, M. Zhalechian, MP. Van Oyen  
+
 * [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433)  
 Accepted at **Operations Research**  
 Collaboration with St. Joseph Hospital  
