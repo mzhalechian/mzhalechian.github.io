@@ -18,6 +18,12 @@ author_profile: true
 [&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators]
 
 ___
+* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
+Accepted at **Management Science**    
+M. Zhalechian, S. Saghafian, O. Robles&dagger;
+  * <span style="color:#black"> [Media Coverage:](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety </span>  
+  * <span style="color:#black">[Media Coverage:](https://www.hks.harvard.edu/faculty-research/policy-topics/health/human-algorithm-approach-approving-medical-devices-could) A Human-Algorithm Approach to Approving Medical Devices Could Slash the Recall Rate and Save Billions </span>  
+
 * [Dynamic Care Unit Placements under Unknown Demand with Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120841)  
 Accepted at **Manufacturing & Service Operations Management**  
 Collaboration with St. Joseph Hospital    
@@ -59,12 +65,6 @@ M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew&dagger;, J. Stein (M.D), et. 
 [&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators] 
 
 ___  
-* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
-Minor Revision at **Management Science**    
-M. Zhalechian, S. Saghafian, O. Robles&dagger;
-  * <span style="color:#black"> [Media Coverage:](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety </span>  
-  * <span style="color:#black">[Media Coverage:](https://www.hks.harvard.edu/faculty-research/policy-topics/health/human-algorithm-approach-approving-medical-devices-could) A Human-Algorithm Approach to Approving Medical Devices Could Slash the Recall Rate and Save Billions </span>  
-
 * [Learning Bundle Pricing of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952453)      
 Under Review     
 A. Dean, M. Zhalechian, C. Shi    
