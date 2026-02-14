@@ -68,7 +68,7 @@ ___
 * [Learning Bundle Pricing of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952453)      
 Under Review     
 A. Dean, M. Zhalechian, C. Shi    
-    * <span style="color:#black">Finalist, Service Science Best Student Paper Competition, 2024 (Awarded to Arlen Dean) </span>  
+    * <span style="color:#black">Finalist, Service Science Best Student Paper Competition, 2024 </span>  
     
 * [From Implementation to Impact: Human-Algorithm Collaboration in Hospital Bed Placement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5510659)   
 Under Review   
