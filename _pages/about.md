@@ -34,7 +34,7 @@ I am a research fellow at the [Center for the Business of Life Sciences](https:/
 
 ### Selected Papers
 ___
-* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance.  Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134), Forthcoming in Management Science.       
+* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134), Forthcoming in Management Science.       
 
 * [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316), Management Science (2025).  
 
