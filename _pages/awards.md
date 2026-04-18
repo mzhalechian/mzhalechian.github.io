@@ -12,6 +12,8 @@ My work has received several recognitions, including:
 
 (*\** denotes honors or awards received by students)
 
+- 2026 Kelley School of Business Research Award 
+
 - 2024\* Finalist, Service Science Best Student Paper Competition
 
 - 2022 Winner, Towner Prize for Distinguished Academic Achievement   
