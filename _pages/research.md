@@ -74,7 +74,7 @@ A. Dean, M. Zhalechian, C. Shi
 Under Review   
 A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
 
-* Does Early Pain Management Pay Off? Evidence on Utilization, Costs, and Surgeries   
+* [Does Early Pain Management Pay Off? Evidence on Utilization, Costs, and Surgeries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6731198)     
 Under Review     
 B. Li, M. Zhalechian, C. Chen, N. Vaughn (M.D), H. Lee (M.D) 
 
