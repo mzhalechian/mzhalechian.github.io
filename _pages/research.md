@@ -69,14 +69,18 @@ ___
 Under Review     
 A. Dean, M. Zhalechian, C. Shi    
     * <span style="color:#black">Finalist, Service Science Best Student Paper Competition, 2024 </span>  
-    
-* [From Implementation to Impact: Human-Algorithm Collaboration in Hospital Bed Placement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5510659)   
-Under Review   
-A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
 
 * [Does Early Pain Management Pay Off? Evidence on Utilization, Costs, and Surgeries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6731198)     
 Under Review     
 B. Li, M. Zhalechian, C. Chen, N. Vaughn (M.D), H. Lee (M.D) 
+
+* [From Implementation to Impact: Human-Algorithm Collaboration in Hospital Bed Placement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5510659)   
+Under Review   
+A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
+
+* Interpretable Design of Coordinated Multi-Agent Mobile Health Applications     
+In Preparation      
+M. Zhalechian, H. Hejazian, S. Saghafian, Y. Fukuoka
 
 <!--
 ### In Progress
