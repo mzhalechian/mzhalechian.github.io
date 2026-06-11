@@ -62,7 +62,7 @@ M. Zhalechian, MP. Van Oyen, M. Lavieri, C. Andrew&dagger;, J. Stein (M.D), et. 
 
 
 ### Working Papers
-[&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators] 
+[&dagger; denotes industry collaborators] [(M.D) denotes M.D. collaborators]
 
 ___  
 * [Learning Bundle Pricing of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4952453)      
