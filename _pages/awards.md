@@ -12,6 +12,8 @@ My work has received several recognitions, including:
 
 (*\** denotes honors or awards received by students)
 
+- 2026 Finalist, MIF Paper Competition 
+
 - 2025 ODT Faculty Scholar for Research Excellence 
 
 - 2025 Kelley School of Business Research Award 
