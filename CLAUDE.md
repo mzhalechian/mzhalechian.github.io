@@ -84,6 +84,16 @@ A paper award appears in **four** places. When adding one, do all four:
 - CV Honors and Awards section — both `.tex` files
 - CV entry for that specific paper — both `.tex` files, newest bullet first
 
+Site navigation is `_data/navigation.yml`. As of Aug 2026 the menu is
+Research / Teaching / CV, with two deliberate choices — don't "helpfully" undo
+either:
+
+- **The Awards tab was removed.** `_pages/awards.md` still exists and `/awards/`
+  is still live, just unlinked. Keep maintaining it as above.
+- **The CV tab points straight at the PDF** (`/CV_MohammadZhalechian.pdf`), not
+  at `/cv/`. The intermediate "You can find my CV here" page was redundant.
+  `_pages/cv.md` still exists and `/cv/` still works, also unlinked.
+
 ## Known issues
 
 - The master `new3/CV.tex` has a **stray duplicate `\end{rSection}`** just before
@@ -101,3 +111,5 @@ A paper award appears in **four** places. When adding one, do all four:
   paper in `research.md`, and to both CV files (Honors and Awards + that paper's
   bullet list). Moved the CV off Google Drive to the repo-hosted PDF. Created the
   `+MZ - CV - new3 (website)` duplicate and applied the status-line rule to it.
+- **Aug 2026** — Removed the Awards tab from the menu and pointed the CV tab
+  directly at the PDF. Both pages kept, unlinked.
