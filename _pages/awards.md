@@ -26,7 +26,7 @@ My work has received several recognitions, including:
 - 2022 Winner, Rackham Outstanding Graduate Student Instructor Award   
   *Rackham Graduate School, University of Michigan*
 
-- 2022 Finalist, CHOM Best Paper Competition (POMS) 
+- 2022 Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition 
 
 - 2021 Rackham Graduate Research Grant  
   *Rackham Graduate School, University of Michigan*

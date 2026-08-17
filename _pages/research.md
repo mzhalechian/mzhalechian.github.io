@@ -44,7 +44,7 @@ Accepted at **Management Science**
 Collaboration with Massachusetts Hospital  
 E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian  
   * <span style="color:black">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition, 2026 </span>
-  * <span style="color:black">Finalist, CHOM Best Paper Competition (POMS), 2022 </span>
+  * <span style="color:black">Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2022 </span>
   * <span style="color:black">Finalist, INFORMS MSOM Best Student Paper Competition, 2021 </span>
   * <span style="color:black">Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021 </span>
   * <span style="color:black">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020 </span>  
@@ -143,7 +143,7 @@ ___
 <div class="rec"><div class="yr">2024*</div><div class="rb">Finalist, Service Science Best Student Paper Competition</div></div>
 <div class="rec"><div class="yr">2022</div><div class="rb">Winner, Towner Prize for Distinguished Academic Achievement<span>Rackham Graduate School, University of Michigan</span></div></div>
 <div class="rec"><div class="yr">2022</div><div class="rb">Winner, Rackham Outstanding Graduate Student Instructor Award<span>Rackham Graduate School, University of Michigan</span></div></div>
-<div class="rec"><div class="yr">2022</div><div class="rb">Finalist, CHOM Best Paper Competition (POMS)</div></div>
+<div class="rec"><div class="yr">2022</div><div class="rb">Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition</div></div>
 <div class="rec"><div class="yr">2021</div><div class="rb">Rackham Graduate Research Grant<span>Rackham Graduate School, University of Michigan</span></div></div>
 <div class="rec"><div class="yr">2021</div><div class="rb">Winner, Richard C. Wilson Best Student Paper Award<span>IOE Department, University of Michigan</span></div></div>
 <div class="rec"><div class="yr">2020</div><div class="rb">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper</div></div>
