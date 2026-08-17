@@ -28,7 +28,7 @@ M. Zhalechian, S. Saghafian, O. Robles&dagger;
 Accepted at **Management Science**  
 Collaboration with Massachusetts Hospital  
 E. Keyvanshokooh, M. Zhalechian, C. Shi, MP. Van Oyen, P. Kazemian  
-  * <span style="color:black">Finalist, MIF Paper Competition, 2026 </span>
+  * <span style="color:black">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition, 2026 </span>
   * <span style="color:black">Finalist, CHOM Best Paper Competition (POMS), 2022 </span>
   * <span style="color:black">Finalist, INFORMS MSOM Best Student Paper Competition, 2021 </span>
   * <span style="color:black">Finalist, INFORMS Health Applications Society (HAS) Best Student Paper Competition, 2021 </span>
