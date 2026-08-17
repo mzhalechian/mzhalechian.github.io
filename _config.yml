@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohammad Zhalechian"
   avatar           : "AcademyPic.jpg"
-  bio              : "Assistant Professor of Operations and Decision Technologies<br><br>mzhale-at-iu-dot-edu"
+  bio              : "<span style='display:block;font-size:.85em;color:#8a8a8a;line-height:1.35'>Assistant Professor<br>Operations and Decision Technologies</span><br>mzhale-at-iu-dot-edu"
   location         : 
   employer         :
   pubmed           : 
