@@ -158,7 +158,7 @@ INFORMS Minority Issues Forum (MIF), the INFORMS Decision Analysis Society
 
 <h3>Recent Recognition</h3><hr />
 <div class="rec2"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition</div></div>
-<div class="rec2"><div class="yr">2025</div><div class="rb">ODT Faculty Scholar for Research Excellence</div></div>
+<div class="rec2"><div class="yr">2025</div><div class="rb">Operations and Decision Technologies Faculty Scholar for Research Excellence</div></div>
 <div class="rec2"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>
 <p class="more"><a href="/research/#honors-and-awards">Full list of honors and awards &rarr;</a></p>
 

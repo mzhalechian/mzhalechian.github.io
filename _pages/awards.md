@@ -14,7 +14,7 @@ My work has received several recognitions, including:
 
 - 2026 Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition 
 
-- 2025 ODT Faculty Scholar for Research Excellence 
+- 2025 Operations and Decision Technologies Faculty Scholar for Research Excellence 
 
 - 2025 Kelley School of Business Research Award 
 

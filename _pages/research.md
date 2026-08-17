@@ -138,7 +138,7 @@ M. Zhalechian, R. Tavakkoli-Moghaddam, Y. Rahimi
 ___
 <p class="reclegend">(* denotes honors or awards received by students)</p>
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition</div></div>
-<div class="rec"><div class="yr">2025</div><div class="rb">ODT Faculty Scholar for Research Excellence</div></div>
+<div class="rec"><div class="yr">2025</div><div class="rb">Operations and Decision Technologies Faculty Scholar for Research Excellence</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>
 <div class="rec"><div class="yr">2024*</div><div class="rb">Finalist, Service Science Best Student Paper Competition</div></div>
 <div class="rec"><div class="yr">2022</div><div class="rb">Winner, Towner Prize for Distinguished Academic Achievement<span>Rackham Graduate School, University of Michigan</span></div></div>
