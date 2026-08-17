@@ -141,9 +141,9 @@ ___
 <div class="rec"><div class="yr">2025</div><div class="rb">ODT Faculty Scholar for Research Excellence</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>
 <div class="rec"><div class="yr">2024*</div><div class="rb">Finalist, Service Science Best Student Paper Competition</div></div>
-<div class="rec"><div class="yr">2022</div><div class="rb">Winner, Towner Prize for Distinguished Academic Achievement<span>Rackham Graduate School, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2022</div><div class="rb">Winner, Towner Prize for Distinguished Academic Achievement</div></div>
 <div class="rec"><div class="yr">2022</div><div class="rb">Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition</div></div>
-<div class="rec"><div class="yr">2021</div><div class="rb">Rackham Graduate Research Grant<span>Rackham Graduate School, University of Michigan</span></div></div>
-<div class="rec"><div class="yr">2021</div><div class="rb">Winner, Richard C. Wilson Best Student Paper Award<span>IOE Department, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2021</div><div class="rb">Rackham Graduate Research Grant</div></div>
+<div class="rec"><div class="yr">2021</div><div class="rb">Winner, Richard C. Wilson Best Student Paper Award</div></div>
 <div class="rec"><div class="yr">2020</div><div class="rb">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper</div></div>
 <div class="rec"><div class="yr">2020</div><div class="rb">Finalist, INFORMS Seth Bonder Scholarship for Applied OR in Health Services</div></div>
