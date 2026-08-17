@@ -12,6 +12,21 @@ author_profile: true
   a:hover {
     text-decoration: underline !important;
   }
+  /* typography shared with /teaching/ so the two pages read as one system */
+  .archive { font-size: .88em; line-height: 1.65; }
+  .archive h3 { font-size: 1em; letter-spacing: .04em; text-transform: uppercase;
+                color: #333; margin: 2.1em 0 .2em; }
+  .archive hr { margin: .3em 0 1.1em; border: 0; border-top: 1px solid #e6e6e6; }
+  .archive > ul > li { margin-bottom: 1.35em; }
+  .archive ul ul { margin-top: .3em; }
+  .archive ul ul li { color: #555; margin-bottom: .18em; }
+  .rec { display: flex; gap: .9em; padding: .6em 0; border-bottom: 1px solid #f0f0f0; }
+  .rec:last-of-type { border-bottom: 0; }
+  .rec .yr { flex: 0 0 3.4em; color: #1065c0; font-weight: 600; }
+  .rec .rb { flex: 1; color: #333; }
+  .rec .rb span { display: block; color: #777; font-size: .93em; }
+  .reclegend { color: #888; margin: .2em 0 1em; }
+  @media (max-width: 600px) { .rec { display: block; } .rec .yr { margin-bottom: .1em; } }
 </style>
 
 ### Published & Accepted Papers
@@ -118,3 +133,19 @@ M. Zhalechian, SA. Torabi, M. Mohammadi
 * [A Self-adaptive Evolutionary Algorithm for a Fuzzy Multi-objective Hub Location Problem: An Integration of Responsiveness and Social Responsibility](https://doi.org/10.1016/j.engappai.2017.03.006)  
 Engineering Applications of Artificial Intelligence, 2017  
 M. Zhalechian, R. Tavakkoli-Moghaddam, Y. Rahimi
+
+### Honors and Awards
+___
+<p class="reclegend">(* denotes honors or awards received by students)</p>
+<div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition</div></div>
+<div class="rec"><div class="yr">2025</div><div class="rb">ODT Faculty Scholar for Research Excellence</div></div>
+<div class="rec"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>
+<div class="rec"><div class="yr">2024*</div><div class="rb">Finalist, Service Science Best Student Paper Competition</div></div>
+<div class="rec"><div class="yr">2022</div><div class="rb">Winner, Towner Prize for Distinguished Academic Achievement<span>Rackham Graduate School, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2022</div><div class="rb">Winner, Rackham Outstanding Graduate Student Instructor Award<span>Rackham Graduate School, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2022</div><div class="rb">Finalist, CHOM Best Paper Competition (POMS)</div></div>
+<div class="rec"><div class="yr">2021</div><div class="rb">Rackham Graduate Research Grant<span>Rackham Graduate School, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2021</div><div class="rb">Winner, Richard C. Wilson Best Student Paper Award<span>IOE Department, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2020</div><div class="rb">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper</div></div>
+<div class="rec"><div class="yr">2020</div><div class="rb">Finalist, INFORMS Seth Bonder Scholarship for Applied OR in Health Services</div></div>
+<div class="rec"><div class="yr">2020</div><div class="rb">Winner, Joel and L. Brown Graduate Student Instructor of the Semester<span>IOE Department, University of Michigan</span></div></div>
