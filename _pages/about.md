@@ -43,7 +43,7 @@ redirect_from:
   .pub { display: flex; gap: 1.1em; padding: .7em 0;
          border-bottom: 1px solid #f2f2f2; }
   .pub:last-of-type { border-bottom: 0; }
-  .pub .vn { flex: 0 0 9.5em; color: #666; font-size: .93em; line-height: 1.45; }
+  .pub .vn { flex: 0 0 12.5em; color: #666; font-size: .93em; line-height: 1.45; }
   .pub .vn b { display: block; color: #1a1a1a; font-weight: 600; }
   .pub .ti { flex: 1; }
   @media (max-width: 640px) { .pub { display: block; }
