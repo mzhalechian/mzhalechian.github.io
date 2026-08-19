@@ -71,6 +71,10 @@ run the method.</p>
 
 <h3>Teaching Recognition</h3><hr />
 <div class="award">
+  <div class="yr">2026</div>
+  <div class="ab">Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award</div>
+</div>
+<div class="award">
   <div class="yr">2022</div>
   <div class="ab">Winner, Rackham Outstanding Graduate Student Instructor Award
     <span>University-wide award, Rackham Graduate School, University of Michigan</span></div>

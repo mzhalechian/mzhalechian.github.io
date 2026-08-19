@@ -137,6 +137,7 @@ M. Zhalechian, R. Tavakkoli-Moghaddam, Y. Rahimi
 ### Honors and Awards
 ___
 <p class="reclegend">(* denotes honors or awards received by students)</p>
+<div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award</div></div>
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Operations and Decision Technologies Faculty Scholar for Research Excellence</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>
