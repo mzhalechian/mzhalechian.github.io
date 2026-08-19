@@ -113,7 +113,7 @@ and a faculty affiliate at the
 I received my Ph.D. in Industrial and Operations Engineering from the
 <a href="https://ioe.engin.umich.edu">University of Michigan</a>, along with an
 M.A. in Statistics, and spent a year as a postdoctoral fellow at
-<a href="https://www.hks.harvard.edu">Harvard Kennedy School</a>.</p>
+<a href="https://www.harvard.edu">Harvard University</a>.</p>
 
 <p>My research sits at the intersection of machine learning, operations
 research, and public policy. I study how to design, deploy, and evaluate
