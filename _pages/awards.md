@@ -12,6 +12,8 @@ My work has received several recognitions, including:
 
 (*\** denotes honors or awards received by students)
 
+- 2026 Finalist, INFORMS Minority Issues Forum (MIF) Early Career Award 
+
 - 2026 Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award 
 
 - 2026 Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition 
