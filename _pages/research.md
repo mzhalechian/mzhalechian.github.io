@@ -33,7 +33,7 @@ author_profile: true
 [&dagger; denotes industry collaborators] [(M.D.) denotes M.D. collaborators]
 
 ___
-* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134)   
+* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06477)   
 Accepted at **Management Science**    
 M. Zhalechian, S. Saghafian, O. Robles&dagger;
   * <span style="color:black"> [Media Coverage:](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety </span>  
