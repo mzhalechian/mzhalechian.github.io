@@ -16,6 +16,8 @@ My work has received several recognitions, including:
 
 - 2026 Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award 
 
+- 2026 Finalist, INFORMS Service Science Cluster Best Paper Competition 
+
 - 2026 Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition 
 
 - 2025 Operations and Decision Technologies Faculty Scholar for Research Excellence 

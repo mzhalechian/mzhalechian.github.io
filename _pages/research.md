@@ -93,6 +93,7 @@ B. Li, M. Zhalechian, C. Chen, N. Vaughn (M.D.), H. Lee (M.D.)
 * [From Implementation to Impact: Human-Algorithm Collaboration in Hospital Bed Placement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5510659)   
 Under Review   
 A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
+  * <span style="color:black">Finalist, INFORMS Service Science Cluster Best Paper Competition, 2026 </span>  
   * <span style="color:black"> Selected for presentation at the Healthcare SIG Track, MSOM Conference, 2026 </span>  
 
 * Interpretable Design of Coordinated Multi-Agent Mobile Health Applications     
@@ -139,6 +140,7 @@ ___
 <p class="reclegend">(* denotes honors or awards received by students)</p>
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Early Career Award</div></div>
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award</div></div>
+<div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Service Science Cluster Best Paper Competition</div></div>
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Operations and Decision Technologies Faculty Scholar for Research Excellence</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>
