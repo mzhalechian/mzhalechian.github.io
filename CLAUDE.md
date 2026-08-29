@@ -62,8 +62,9 @@ The duplicate is the master with **two** deviations. Everything else stays ident
 - *Reject & Resubmit* → treated as under review: `Under Review`, showing neither
   the journal name nor the R&R status.
 
-**2. A stray duplicate `\end{rSection}`** just before `\end{document}` is removed.
-See Known issues — it is still present in the master.
+**2. The In Progress `\pubgroup`** is commented out in the duplicate (keep the
+commented copy in sync with the master's live one, so it stays on record).
+The stray `\end{rSection}` deviation is gone — the master was fixed on 2026-08-29.
 
 ### Which file to edit
 
@@ -196,13 +197,12 @@ Never present those as his own on a faculty profile.
 
 ## 5. Known data issues
 
-- **The master `new3/CV.tex` is unbalanced**: 10 `\begin{rSection}` against 11
-  `\end{rSection}`, the extra one immediately before `\end{document}`. With
-  `-halt-on-error` it fails outright (`\begin{document} ended by \end{list}`);
-  in plain `nonstopmode` LaTeX logs the error and still emits a PDF, so it can
-  look fine. The website duplicate has it removed and is balanced. Re-remove it
-  whenever the duplicate is refreshed from the master, until it's fixed upstream
-  in Overleaf.
+- **Always check `rSection` balance after an Overleaf edit**: count
+  `^\\begin{rSection}` vs `^\\end{rSection}` in both files. On 2026-08-29 a
+  block-comment in Overleaf swallowed the `\end{rSection}` closing Publications;
+  LaTeX still emitted a PDF in `nonstopmode`, but every later section was nested
+  one list level deeper (extra 1.5em indent), which made award lines wrap. Build
+  with `-halt-on-error` so this fails loudly instead.
 - **`Ophthalmology Science` paper is mis-cited on the site and CV.** The published
   title is *"Augmenting Kalman Filter Machine Learning Models with Data from OCT
   to Predict Future Visual Field Loss"* — no "Optical Coherence Tomography" spelled
