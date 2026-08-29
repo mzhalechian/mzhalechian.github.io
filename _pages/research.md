@@ -93,8 +93,10 @@ B. Li, M. Zhalechian, C. Chen, N. Vaughn (M.D.), H. Lee (M.D.)
 * [From Implementation to Impact: Human-Algorithm Collaboration in Hospital Bed Placement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5510659)   
 Under Review   
 A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
+  * <span style="color:black">Implemented at Michigan Medicine since July 2023 </span>  
   * <span style="color:black">Finalist, INFORMS Service Science Cluster Best Paper Competition, 2026 </span>  
-  * <span style="color:black"> Selected for presentation at the Healthcare SIG Track, MSOM Conference, 2026 </span>  
+  * <span style="color:black">Selected for presentation at the Healthcare SIG Track, MSOM Conference, 2026 </span>  
+  * <span style="color:black">Accepted at Michigan Medicine Quality Month Symposium, 2024 </span>  
 
 * Interpretable Design of Coordinated Multi-Agent Mobile Health Applications     
 In Preparation      
