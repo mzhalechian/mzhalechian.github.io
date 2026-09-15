@@ -130,9 +130,9 @@ check these survive.**
 
 - Shares typography with `/teaching/`: uppercase letter-spaced `h3`, hairline
   rules, `.88em` body, muted sub-bullets.
-- **Honors and Awards** lives at the bottom of this page — all 12 awards with
-  their gray institution sub-lines. Trimming it was tried and reverted; keep it
-  complete unless asked again.
+- **Honors and Awards** lives at the bottom of this page — every award (16 as of
+  Sep 2026) with their gray institution sub-lines. Trimming it was tried and
+  reverted; keep it complete unless asked again.
 - The award rows must sit **inside** `<div class="archive">`. Inserting after the
   `</div></div>` that closes it renders the block full-bleed, outside the layout.
 
@@ -174,13 +174,18 @@ sent to IU). Abbreviations alone are opaque to outside readers:
   (never "ODT")
 - Still unexpanded and arguably should be: `IOE Richard C. Wilson Prize`
 
-**An award appears in five places.** When adding one, do all five:
+**An award appears in up to six places.** When adding one, do all that apply:
 
 1. `_pages/awards.md` — top-level list, newest first
 2. `_pages/research.md` — sub-bullet under the relevant paper, newest first
 3. `_pages/research.md` — the Honors and Awards section at the bottom
 4. `_pages/about.md` — Recent Recognition, if it belongs in the top three
 5. Both `.tex` files — Honors and Awards **and** that paper's bullet list
+6. `_pages/teaching.md` — Teaching Recognition, if it is a teaching award
+
+Recent Recognition on the home page holds exactly three items: the new award
+goes in and the oldest of the three drops off (the full list stays on
+`/research/`). The Early Career Award finalist stays in first position.
 
 `*` after a year means the award was received by a **student**, not by Mohammad.
 Never present those as his own on a faculty profile.
@@ -249,6 +254,8 @@ Use Crossref for citation metadata rather than the CV:
 
 ## 7. Change log
 
+- **Sep 2026** — Added the 2026 INFORMS Data Mining Society Teaching Award
+  finalist across the site (awards, research, teaching, home) and both CVs.
 - **Aug 2026** — Added the 2026 INFORMS Minority Issues Forum finalist across the
   site and both CVs. Moved the CV off Google Drive to the repo-hosted PDF and
   created the `+MZ - CV - new3 (website)` duplicate.
