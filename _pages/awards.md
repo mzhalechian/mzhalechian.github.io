@@ -14,6 +14,8 @@ My work has received several recognitions, including:
 
 - 2026 Finalist, INFORMS Minority Issues Forum (MIF) Early Career Award 
 
+- 2026 Finalist, INFORMS Data Mining Society Teaching Award 
+
 - 2026 Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award 
 
 - 2026 Finalist, INFORMS Service Science Cluster Best Paper Competition 

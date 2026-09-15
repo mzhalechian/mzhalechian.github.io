@@ -158,7 +158,7 @@ INFORMS Minority Issues Forum (MIF), the INFORMS Decision Analysis Society
 
 <h3>Recent Recognition</h3><hr />
 <div class="rec2"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Early Career Award</div></div>
-<div class="rec2"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award</div></div>
+<div class="rec2"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Data Mining Society Teaching Award</div></div>
 <div class="rec2"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Service Science Cluster Best Paper Competition</div></div>
 <p class="more"><a href="/research/#honors-and-awards">Full list of honors and awards &rarr;</a></p>
 
