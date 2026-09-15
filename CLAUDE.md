@@ -183,10 +183,13 @@ sent to IU). Abbreviations alone are opaque to outside readers:
 5. Both `.tex` files — Honors and Awards **and** that paper's bullet list
 6. `_pages/teaching.md` — Teaching Recognition, if it is a teaching award
 
-Recent Recognition on the home page holds exactly three items: the new award
-goes in and the oldest of the three drops off (the full list stays on
-`/research/`). Within 2026 the order is fixed: Early Career Award, JFIG Teaching
-Excellence Award, Data Mining Society Teaching Award, then the paper competitions.
+Recent Recognition on the home page holds exactly three items (the full list
+stays on `/research/`). Since Sep 2026 the user's choice is: Early Career Award,
+JFIG Teaching Excellence Award, Service Science Cluster Best Paper Competition;
+the Data Mining Society Teaching Award is deliberately left off the home page.
+Everywhere else, within 2026 the order is fixed: Early Career Award, JFIG
+Teaching Excellence Award, Data Mining Society Teaching Award, then the paper
+competitions.
 
 `*` after a year means the award was received by a **student**, not by Mohammad.
 Never present those as his own on a faculty profile.
