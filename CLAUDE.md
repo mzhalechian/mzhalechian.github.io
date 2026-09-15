@@ -185,7 +185,8 @@ sent to IU). Abbreviations alone are opaque to outside readers:
 
 Recent Recognition on the home page holds exactly three items: the new award
 goes in and the oldest of the three drops off (the full list stays on
-`/research/`). The Early Career Award finalist stays in first position.
+`/research/`). Within 2026 the order is fixed: Early Career Award, JFIG Teaching
+Excellence Award, Data Mining Society Teaching Award, then the paper competitions.
 
 `*` after a year means the award was received by a **student**, not by Mohammad.
 Never present those as his own on a faculty profile.
