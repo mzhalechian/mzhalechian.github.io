@@ -99,8 +99,8 @@ redirect_from:
 </div>
 
 <p>Much of my collaboration has been in healthcare and life sciences, though my
-work also extends to other domains &mdash; including revenue management and
-pricing, service operations, supply chain, and public policy.</p>
+work also extends to other domains &mdash; including revenue management,
+service operations, public policy, and analytics for social good.</p>
 
 <h3>Bio</h3><hr />
 
