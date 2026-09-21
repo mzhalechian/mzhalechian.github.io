@@ -130,8 +130,17 @@ of these systems and the way people actually respond to them.</p>
 Operations Research, and Manufacturing &amp; Service Operations Management, as
 well as clinical journals such as the American Journal of Ophthalmology, and has
 been recognized in several best-paper competitions, including those of the
-INFORMS Minority Issues Forum (MIF), the INFORMS Decision Analysis Society
-(DAS), and the POMS College of Healthcare Operations Management (CHOM).</p>
+INFORMS Service Science Section, the INFORMS Decision Analysis Society (DAS),
+the INFORMS Minority Issues Forum (MIF), and the POMS College of Healthcare
+Operations Management (CHOM).</p>
+
+<p>I teach analytics and machine learning to business students, where my goal
+is to demystify AI for business students and show them how to turn raw data into
+insights that inform managerial decisions. My teaching has been
+recognized as a 2026 finalist for both the INFORMS Junior Faculty Interest Group
+(JFIG) Teaching Excellence Award and the INFORMS Data Mining Society Teaching
+Award, and earlier with the University of Michigan's Rackham Outstanding
+Graduate Student Instructor Award.</p>
 
 <h3>Selected Publications</h3><hr />
 <div class="pub">

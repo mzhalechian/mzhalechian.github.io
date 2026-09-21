@@ -121,8 +121,9 @@ check these survive.**
   sidebar, so **the layout override CSS must stay inside the page**:
   `.page { width:100% !important; float:none !important; padding-left/right:0 !important }`.
   It is scoped to this page; other pages keep their sidebars.
-- Sections: Research Interests (blue-label rows) → breadth paragraph → Bio (three
-  paragraphs) → Selected Publications (venue in a 12.5em left column) → Recent
+- Sections: Research Interests (blue-label rows) → breadth paragraph → Bio (four
+  paragraphs; the last two cover publications/recognition and teaching) →
+  Selected Publications (venue in a 12.5em left column) → Recent
   Recognition (three items + link to the full list).
 - The pre-redesign version is kept at `_backup/about-2026-08-17-pre-redesign.md`.
 
@@ -258,6 +259,8 @@ Use Crossref for citation metadata rather than the CV:
 
 ## 7. Change log
 
+- **Sep 2026** — Home bio: added the Service Science Section to the best-paper
+  list and a fourth paragraph on teaching and the two 2026 teaching-award finalists.
 - **Sep 2026** — Added the 2026 INFORMS Data Mining Society Teaching Award
   finalist across the site (awards, research, teaching, home) and both CVs.
 - **Aug 2026** — Added the 2026 INFORMS Minority Issues Forum finalist across the
