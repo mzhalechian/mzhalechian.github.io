@@ -155,4 +155,4 @@ ___
 <div class="rec"><div class="yr">2021</div><div class="rb">Winner, Richard C. Wilson Best Student Paper Award<span>IOE Department, University of Michigan</span></div></div>
 <div class="rec"><div class="yr">2020</div><div class="rb">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper</div></div>
 <div class="rec"><div class="yr">2020</div><div class="rb">Finalist, INFORMS Seth Bonder Scholarship for Applied OR in Health Services</div></div>
-<div class="rec"><div class="yr">2020</div><div class="rb">Winner, Joel and L. Brown Graduate Student Instructor of the Semester<span>IOE Department, University of Michigan</span></div></div>
+<div class="rec"><div class="yr">2020</div><div class="rb">Winner, Joel and Lorraine Brown Outstanding Graduate Student Instructor (GSI) Award<span>IOE Department, University of Michigan</span></div></div>

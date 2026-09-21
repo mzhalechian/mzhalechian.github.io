@@ -85,7 +85,7 @@ run the method.</p>
 </div>
 <div class="award">
   <div class="yr">2020</div>
-  <div class="ab">Winner, Joel and Lorraine Brown Graduate Student Instructor of the Semester
+  <div class="ab">Winner, Joel and Lorraine Brown Outstanding Graduate Student Instructor (GSI) Award
     <span>Industrial and Operations Engineering, University of Michigan</span></div>
 </div>
 

@@ -144,7 +144,7 @@ Graduate Student Instructor Award.</p>
 
 <h3>Selected Publications</h3><hr />
 <div class="pub">
-  <div class="vn"><b>Management Science</b>forthcoming</div>
+  <div class="vn"><b>Management Science</b>2026</div>
   <div class="ti"><a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06477">Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy</a></div>
 </div>
 <div class="pub">
