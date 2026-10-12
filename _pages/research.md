@@ -36,9 +36,11 @@ ___
 * [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance Policy](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06477)   
 Accepted at **Management Science**    
 M. Zhalechian, S. Saghafian, O. Robles&dagger;
-  * <span style="color:black">[Media Coverage:](https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/AI-Could-Cut-Medical-Device-Recalls-by-Nearly-a-Third-Study-Finds) AI Could Cut Medical Device Recalls by Nearly a Third </span>  
-  * <span style="color:black"> [Media Coverage:](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety </span>  
-  * <span style="color:black">[Media Coverage:](https://www.hks.harvard.edu/faculty-research/policy-topics/health/human-algorithm-approach-approving-medical-devices-could) A Human-Algorithm Approach to Approving Medical Devices Could Slash the Recall Rate and Save Billions </span>  
+  * <span style="color:black">[Media Coverage (INFORMS press release):](https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/AI-Could-Cut-Medical-Device-Recalls-by-Nearly-a-Third-Study-Finds) AI Could Cut Medical Device Recalls by Nearly a Third </span>  
+  * <span style="color:black">[Media Coverage (Medical Xpress):](https://medicalxpress.com/news/2026-09-ai-medical-device-recalls.html) AI Could Cut Medical Device Recalls by Nearly a Third </span>  
+  * <span style="color:black">[Media Coverage (Today's Medical Developments):](https://www.todaysmedicaldevelopments.com/news/artificial-intelligence-could-reduce-medical-device-recalls-study-suggests/) Artificial Intelligence Could Reduce Medical Device Recalls </span>  
+  * <span style="color:black">[Media Coverage (Devdiscourse):](https://www.devdiscourse.com/article/health/3021077-transforming-fda-clearance-how-ai-and-human-insight-can-improve-medical-device-safety) Transforming FDA Clearance: How AI and Human Insight Can Improve Medical Device Safety </span>  
+  * <span style="color:black">[Media Coverage (Harvard Kennedy School):](https://www.hks.harvard.edu/faculty-research/policy-topics/health/human-algorithm-approach-approving-medical-devices-could) A Human-Algorithm Approach to Approving Medical Devices Could Slash the Recall Rate and Save Billions </span>  
 
 * [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316)  
 Accepted at **Management Science**  
