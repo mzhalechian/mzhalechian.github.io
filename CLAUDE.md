@@ -173,7 +173,18 @@ sent to IU). Abbreviations alone are opaque to outside readers:
 - `POMS College of Healthcare Operations Management (CHOM) Best Paper Competition`
 - `Operations and Decision Technologies Faculty Scholar for Research Excellence`
   (never "ODT")
-- Still unexpanded and arguably should be: `IOE Richard C. Wilson Prize`
+- Exception, the user's choice (Oct 2026): the two Michigan IOE department
+  awards keep the `IOE` prefix unexpanded, `IOE Richard C. Wilson Best Student
+  Paper Award` and, on the CV, `IOE Brown Outstanding Graduate Student Instructor
+  Award`.
+
+**CV Honors and Awards: one line per award** (since Oct 2026). Bold name, then
+the institution after a comma in regular weight, never a `\\` second line. The
+line is 496pt wide; when wording changes, check the line still fits.
+`Winner,` marks competitions only (the Wilson paper award); selected honors
+(Towner, Rackham GSI, Brown) carry none. Brown is shortened on the CV because its
+full name alone fills the line. The site keeps full names with gray institution
+sub-lines. The Towner Prize is a **College of Engineering** prize, not Rackham's.
 
 **An award appears in up to six places.** When adding one, do all that apply:
 
@@ -259,6 +270,16 @@ Use Crossref for citation metadata rather than the CV:
 
 ## 7. Change log
 
+- **Oct 2026** — CV Honors and Awards: every award on one line (institution after
+  a comma; `IOE` prefix on Wilson and Brown). Site credits the Towner Prize to the
+  College of Engineering. Synced the master's Center for the Business of Life
+  Sciences talk (Oct 2026) into the website CV.
+- **Sep–Oct 2026** — FDA paper: Management Science 2026; five source-labeled
+  media-coverage lines (Harvard Kennedy School first, then INFORMS) on the
+  research page and both CVs. Brown award renamed to the Joel and Lorraine Brown
+  Outstanding Graduate Student Instructor (GSI) Award. Home breadth sentence now
+  lists revenue management, service operations, public policy, and analytics for
+  social good.
 - **Sep 2026** — Home bio: added the Service Science Section to the best-paper
   list and a fourth paragraph on teaching and the two 2026 teaching-award finalists.
 - **Sep 2026** — Added the 2026 INFORMS Data Mining Society Teaching Award
