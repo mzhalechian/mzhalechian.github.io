@@ -132,8 +132,9 @@ check these survive.**
 - Shares typography with `/teaching/`: uppercase letter-spaced `h3`, hairline
   rules, `.88em` body, muted sub-bullets.
 - **Honors and Awards** lives at the bottom of this page — every award (16 as of
-  Sep 2026) with their gray institution sub-lines. Trimming it was tried and
-  reverted; keep it complete unless asked again.
+  Sep 2026), one line each, worded exactly as on the CV (institution inline after
+  a comma, since Oct 2026). Trimming it was tried and reverted; keep it complete
+  unless asked again.
 - The award rows must sit **inside** `<div class="archive">`. Inserting after the
   `</div></div>` that closes it renders the block full-bleed, outside the layout.
 
@@ -175,16 +176,20 @@ sent to IU). Abbreviations alone are opaque to outside readers:
   (never "ODT")
 - Exception, the user's choice (Oct 2026): the two Michigan IOE department
   awards keep the `IOE` prefix unexpanded, `IOE Richard C. Wilson Best Student
-  Paper Award` and, on the CV, `IOE Brown Outstanding Graduate Student Instructor
-  Award`.
+  Paper Award` and `IOE Brown Outstanding Graduate Student Instructor Award` (CV,
+  research page, `/awards/`).
 
 **CV Honors and Awards: one line per award** (since Oct 2026). Bold name, then
 the institution after a comma in regular weight, never a `\\` second line. The
 line is 496pt wide; when wording changes, check the line still fits.
 `Winner,` marks competitions only (the Wilson paper award); selected honors
 (Towner, Rackham GSI, Brown) carry none. Brown is shortened on the CV because its
-full name alone fills the line. The site keeps full names with gray institution
-sub-lines. The Towner Prize is a **College of Engineering** prize, not Rackham's.
+full name alone fills the line. The research page's Honors list and `/awards/`
+use the same one-line wording; the teaching page keeps its gray sub-lines,
+including the deliberate "University-wide award" note on the Rackham award. The
+CV's CHOM line lacks "Management" (with it, the line overflows by 76pt); the site
+keeps the full name. The Towner Prize is a **College of Engineering** prize, not
+Rackham's.
 
 **An award appears in up to six places.** When adding one, do all that apply:
 
@@ -201,7 +206,8 @@ JFIG Teaching Excellence Award, Service Science Cluster Best Paper Competition;
 the Data Mining Society Teaching Award is deliberately left off the home page.
 Everywhere else, within 2026 the order is fixed: Early Career Award, JFIG
 Teaching Excellence Award, Data Mining Society Teaching Award, then the paper
-competitions.
+competitions. Within 2022: the CHOM finalist, then the Towner Prize, then the
+Rackham Outstanding Graduate Student Instructor Award.
 
 `*` after a year means the award was received by a **student**, not by Mohammad.
 Never present those as his own on a faculty profile.
@@ -273,7 +279,9 @@ Use Crossref for citation metadata rather than the CV:
 - **Oct 2026** — CV Honors and Awards: every award on one line (institution after
   a comma; `IOE` prefix on Wilson and Brown). Site credits the Towner Prize to the
   College of Engineering. Synced the master's Center for the Business of Life
-  Sciences talk (Oct 2026) into the website CV.
+  Sciences talk (Oct 2026) into the website CV. Then the research page's Honors
+  list and `/awards/` took the same one-line wording, and 2022 was reordered
+  everywhere to CHOM, Towner, Rackham GSI.
 - **Sep–Oct 2026** — FDA paper: Management Science 2026; five source-labeled
   media-coverage lines (Harvard Kennedy School first, then INFORMS) on the
   research page and both CVs. Brown award renamed to the Joel and Lorraine Brown
