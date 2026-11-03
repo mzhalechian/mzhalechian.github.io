@@ -276,6 +276,10 @@ Use Crossref for citation metadata rather than the CV:
 
 ## 7. Change log
 
+- **Nov 2026** — Won the 2026 INFORMS JFIG Teaching Excellence Award and the
+  INFORMS Data Mining Society Teaching Award: Finalist → Winner on the awards,
+  research, and teaching pages, home Recent Recognition and teaching paragraph,
+  and both CVs. Order and home-page selection unchanged.
 - **Oct 2026** — CV Honors and Awards: every award on one line (institution after
   a comma; `IOE` prefix on Wilson and Brown). Site credits the Towner Prize to the
   College of Engineering. Synced the master's Center for the Business of Life
