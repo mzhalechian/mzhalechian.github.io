@@ -97,7 +97,7 @@ B. Li, M. Zhalechian, C. Chen, N. Vaughn (M.D.), H. Lee (M.D.)
 Under Review   
 A. Dean, M. Zhalechian, I. Attari, MP. Van Oyen, M. Garifullin&dagger;, J. Pardo&dagger;
   * <span style="color:black">Implemented at Michigan Medicine since July 2023 </span>  
-  * <span style="color:black">Finalist, INFORMS Service Science Cluster Best Paper Competition, 2026 </span>  
+  * <span style="color:black">Second Place, INFORMS Service Science Cluster Best Paper Competition, 2026 </span>  
   * <span style="color:black">Selected for presentation at the Healthcare SIG Track, MSOM Conference, 2026 </span>  
   * <span style="color:black">Accepted at Michigan Medicine Quality Month Symposium, 2024 </span>  
 
@@ -146,7 +146,7 @@ ___
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Early Career Award</div></div>
 <div class="rec"><div class="yr">2026</div><div class="rb">Winner, INFORMS Junior Faculty Interest Group (JFIG) Teaching Excellence Award</div></div>
 <div class="rec"><div class="yr">2026</div><div class="rb">Winner, INFORMS Data Mining Society Teaching Award</div></div>
-<div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Service Science Cluster Best Paper Competition</div></div>
+<div class="rec"><div class="yr">2026</div><div class="rb">Second Place, INFORMS Service Science Cluster Best Paper Competition</div></div>
 <div class="rec"><div class="yr">2026</div><div class="rb">Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Operations and Decision Technologies Faculty Scholar for Research Excellence</div></div>
 <div class="rec"><div class="yr">2025</div><div class="rb">Kelley School of Business Research Award</div></div>

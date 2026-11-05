@@ -18,7 +18,7 @@ My work has received several recognitions, including:
 
 - 2026 Winner, INFORMS Data Mining Society Teaching Award 
 
-- 2026 Finalist, INFORMS Service Science Cluster Best Paper Competition 
+- 2026 Second Place, INFORMS Service Science Cluster Best Paper Competition 
 
 - 2026 Finalist, INFORMS Minority Issues Forum (MIF) Paper Competition 
 
